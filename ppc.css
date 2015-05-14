@@ -1,0 +1,25 @@
+* {
+    vertical-align: top;
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    width: auto;
+    margin: 0px auto;
+}
+
+#header {
+    width: 970px;
+    height: 120px;
+    background-color: silver;
+    display: inline-block;
+}
+
+#main_content {
+    width: 900px;
+    height: 800px;
+    padding: 20px 35px 20px 35px;
+    background-color: black;
+    display: inline-block;
+}
